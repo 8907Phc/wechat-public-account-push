@@ -13,8 +13,14 @@ export const config = {
     TEMPLATE_ID: "xuJyu_2d4Eci3Uo9P9COCpSEAqicm1RSOnXynHZ7tm4",
 
     USERS: [
-      "osLlj6MvQE0h3GqvNwFPwbjGbl5s",
-      "osLlj6IKqaFup_gIWPqz01VA9PgA"
+        {
+            name:"老彭",
+            id："osLlj6MvQE0h3GqvNwFPwbjGbl5s"
+        },
+        {
+            name:"小侯",
+            id："osLlj6IKqaFup_gIWPqz01VA9PgA"
+        }
     ],
      
     /**
