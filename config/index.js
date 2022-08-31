@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "fddf8fde24dc15c32c56aa9e6a58cd7a",
 
     // 模板消息id
-    TEMPLATE_ID: "8omVItDi0OswrHsFA7uSgO4QP2ilL9OInrkProerd24",
+    TEMPLATE_ID: "xuJyu_2d4Eci3Uo9P9COCpSEAqicm1RSOnXynHZ7tm4",
 
     USERS: [
       "osLlj6MvQE0h3GqvNwFPwbjGbl5s",
@@ -66,7 +66,6 @@ export const config = {
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
 // {{birthday_message.DATA}}
-
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}
 
